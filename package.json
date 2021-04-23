@@ -9,5 +9,8 @@
   "devDependencies": {
     "typescript": "^4.2.3",
     "vite": "^2.1.5"
+  },
+  "dependencies": {
+    "lit": "^2.0.0-rc.1"
   }
 }

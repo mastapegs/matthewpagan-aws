@@ -7,7 +7,7 @@ export class AppComponent extends LitWind {
   render() {
     return html`
       <div class="p-24 bg-blue-200">
-        <h1 class="text-3xl font-semibold">Hello, World!</h1>
+        <h1 class="text-3xl font-semibold text-center">Hello, World!</h1>
       </div>
     `;
   }
